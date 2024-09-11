@@ -1,5 +1,5 @@
-# Jogo de Cartas
-Este é um projeto de um jogo de cartas em Java. O jogo utiliza um baralho padrão e permite que múltiplos jogadores participem, cada um com a capacidade de pegar cartas e acumular pontos. O objetivo é acumular exatamente 21 pontos sem exceder esse valor. O jogo inclui funcionalidades para embaralhar o baralho, distribuir cartas e determinar o vencedor.
+# BlackJack - Jogo de Cartas
+Este é um projeto de um jogo de cartas chamado BlackJack, feito em Java. O jogo utiliza um baralho padrão e permite que múltiplos jogadores participem, cada um com a capacidade de pegar cartas e acumular pontos. O objetivo é acumular exatamente 21 pontos sem exceder esse valor. O jogo inclui funcionalidades para embaralhar o baralho, distribuir cartas e determinar o vencedor.
 
 ## Estrutura do Projeto
 ### Pacotes e Classes
