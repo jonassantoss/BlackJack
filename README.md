@@ -75,9 +75,5 @@ Este é um projeto de um jogo de cartas chamado BlackJack, feito em Java. O jogo
     - `iniciar()`: Inicia o jogo, executando as rodadas até que haja um vencedor ou todos os jogadores sejam eliminados.
     - `verificaPontosDosJogadores()`: Verifica os pontos dos jogadores e determina se há um vencedor.
 
-## Como Executar
-1. Compile o projeto com `javac -d bin src/**/*.java`.
-2. Execute o jogo com `java -cp bin Jogo`.
-
 ## Contribuições
 Sinta-se à vontade para enviar pull requests ou abrir issues para melhorias e correções.
